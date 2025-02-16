@@ -10,8 +10,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-  },
-  "homepage": "https://harshjat05.github.io/COMP2156",
+  },  "homepage": "https://harshjat05.github.io/COMP2156",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/harshjat05/COMP2156.git"
